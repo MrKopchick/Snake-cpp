@@ -145,7 +145,7 @@ public:
         while (!isGameOver) {
             draw();
             update();
-            Sleep(100); // Затримка 100 мс (попередній _sleep(100) замінено на Sleep)
+            Sleep(100);
         }
         cout << "Game Over!" << endl;
     }
