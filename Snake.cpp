@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <conio.h>
-#include <windows.h> // Для Sleep
+#include <windows.h>
 
 using namespace std;
 
